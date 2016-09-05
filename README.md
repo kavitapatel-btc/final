@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -36,3 +37,6 @@ jhgfd uytgrvfsdcszx ujytbgrfdsczsxz
 # cart_app-
 shoping cart application.
 >>>>>>> 5a13b05d1fc25eff50f75e2f9b27c5c1142f7354
+=======
+# cart_app
+>>>>>>> 36d21402efbbfa7c6d2655e2b483a598ffc41b67
