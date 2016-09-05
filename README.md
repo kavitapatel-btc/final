@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -40,3 +41,6 @@ shoping cart application.
 =======
 # cart_app
 >>>>>>> 36d21402efbbfa7c6d2655e2b483a598ffc41b67
+=======
+# cart
+>>>>>>> 7c142abc6d46b9bb1798adfb1a87ab595c7ef05c
