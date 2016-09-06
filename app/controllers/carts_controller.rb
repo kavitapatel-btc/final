@@ -8,6 +8,7 @@ class CartsController < ApplicationController
     @carts = Cart.all
   end
 
+
   # GET /carts/1
   # GET /carts/1.json
   def show
