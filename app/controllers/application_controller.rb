@@ -28,7 +28,7 @@ end
       session[:counter] += 1
     end
  def location
-     unless request.fullpath == logout_path
+     unless request.fullpath == logout_path || request.fullpath == line_items_path
         session[:previous_url]= request.fullpath
       else
         session[:previous_url]= store_url

@@ -2,7 +2,7 @@ class StoreController < ApplicationController
   include CurrentCart
   before_action :set_cart
   skip_before_action :authorize
-  
+  before_action :location
   def index
     @products = Product.order(:title)
     @count = increment_count
