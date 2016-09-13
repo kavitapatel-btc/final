@@ -18,6 +18,9 @@ class ApplicationController < ActionController::Base
   def default_url_options
       { locale: I18n.locale }
   end
+   def current_user
+    @current_user = session[:user_id]
+  end
 def authorize
     unless User.find_by(id: session[:user_id])
     redirect_to login_url, notice: "Please log in"
